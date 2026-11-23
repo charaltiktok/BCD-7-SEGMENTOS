@@ -13,6 +13,8 @@ This project works through 4 inputs, so through logical inputs it ends up activa
 
 ## How to test
 
-through Wokwi in simulation## External hardware
+through Wokwi in simulation
+
+## External hardware
 
 Microcontroller and integrated circuit
