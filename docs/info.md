@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+este proyecto funciona por medio de 4 entradas por lo cual estas por medio de entradas lógicas termina activando un display de 7 segmento y este mismo pueda mostrarlo en decimal después de estar en binario 
 
 ## How to test
 
-Explain how to use your project
-
+por medio de wokwi en simulación 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Microcontrolador y cto integrados
